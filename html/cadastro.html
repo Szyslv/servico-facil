@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/cadastro.css">
+</head>
+<body>
+    <div class="square">
+        <form action="receber_dados.jsp" method="post">
+            <label class="nome" for="texto">Nome completo</label>
+            <input class="text" type="text" id="nome">
+
+            <label class="area" for="texto">Área de Atuação</label>
+            <input class="text1" type="text" id="texto">
+
+            <label class="anos" for="texto">Ano de Experiência</label>
+            <input class="text2" type="text" id="texto">
+
+            <label class="local" for="texto">Localização</label>
+            <input class="text3" type="text" id="texto">
+
+            <label class="contato" for="texto">Contato</label>
+            <input class="text4" type="text" id="texto">
+        </form>
+        <form action="/upload" method="post">
+            <label class="foto" for="profilePicture">Foto de Perfil</label>
+            <input class="file" type="file" id="profilePicture">
+        </form>
+        <div class="cads">
+            <a href="../html/bemvindo.html">CADASTRAR</a>
+        </div>
+    </div>
+</body>
+</html>

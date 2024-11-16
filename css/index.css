@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0%;
+    padding: 0%;
+}
+
+html{
+    overflow: hidden;
+}
+
+.servico img{
+    top: 0%;
+}
+
+.title h1{
+    position: relative;
+    top: -770px;
+    left: 560px;
+    font-size: 70px;
+    color: #fff;
+}
+
+.buttonprofi{
+    position: relative;
+    top: -650px;
+    left: 550px;
+    width: 410px;
+    height: 100px;
+    border-radius: 200px;
+    background-color: #560216;
+}
+
+.buttonprofi a{
+    position: relative;
+    text-decoration: none;
+    color: #fff;
+    font-size: 40px;
+    top: 25px;
+    left: 94px;
+}
+
+.buttoncliente{
+    position: relative;
+    top: -610px;
+    left: 550px;
+    width: 410px;
+    height: 100px;
+    border-radius: 200px;
+    background-color: #560216;
+}
+
+.buttoncliente a{
+    position: relative;
+    text-decoration: none;
+    color: #fff;
+    font-size: 40px;
+    top: 25px;
+    left: 140px;
+}
