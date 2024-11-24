@@ -1,0 +1,245 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0%;
+    padding: 0%;
+}
+
+body{
+    background-color: #560216;
+}
+
+.barra{
+    display: flex;
+    align-items: center;
+}
+
+.barra-input{
+    position: relative;
+    margin-top: 1%;
+    width: 700px;
+    padding: 10px;
+    left: 290px;
+    font-size: 16px;
+    border-radius: 4px;
+}
+
+.barra-button{
+    position: relative;
+    margin-top: 1%;
+    padding: 11px 20px;
+    font-size: 16px;
+    left: 290px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.pintor{
+    position: relative;
+    top: 40px;
+    left: 300px;
+    height: 60px;
+    width: 800px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.pintor a{
+    position: relative;
+    top: 15px;
+    left: 320px;
+    text-decoration: none;
+    color: #560216;
+    font-size: 30px;
+}
+
+.ferro{
+    position: relative;
+    top: 70px;
+    left: 300px;
+    height: 60px;
+    width: 800px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.ferro a{
+    position: relative;
+    top: 15px;
+    left: 320px;
+    text-decoration: none;
+    color: #560216;
+    font-size: 30px;
+}
+
+.pedre{
+    position: relative;
+    top: 100px;
+    left: 300px;
+    height: 60px;
+    width: 800px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.pedre a{
+    position: relative;
+    top: 15px;
+    left: 320px;
+    text-decoration: none;
+    color: #560216;
+    font-size: 30px;
+}
+
+.letri{
+    position: relative;
+    top: 130px;
+    left: 300px;
+    height: 60px;
+    width: 800px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.letri a{
+    position: relative;
+    top: 15px;
+    left: 320px;
+    text-decoration: none;
+    color: #560216;
+    font-size: 30px;
+}
+
+.enca{
+    position: relative;
+    top: 160px;
+    left: 300px;
+    height: 60px;
+    width: 800px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.enca a{
+    position: relative;
+    top: 15px;
+    left: 310px;
+    text-decoration: none;
+    color: #560216;
+    font-size: 30px;
+}
+
+.azul{
+    position: relative;
+    top: 190px;
+    left: 300px;
+    height: 60px;
+    width: 800px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.azul a{
+    position: relative;
+    top: 15px;
+    left: 310px;
+    text-decoration: none;
+    color: #560216;
+    font-size: 30px;
+}
+
+.carpi{
+    position: relative;
+    top: 220px;
+    left: 300px;
+    height: 60px;
+    width: 800px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.carpi a{
+    position: relative;
+    top: 15px;
+    left: 310px;
+    text-decoration: none;
+    color: #560216;
+    font-size: 30px;
+}
+
+.marce{
+    position: relative;
+    top: 250px;
+    left: 300px;
+    height: 60px;
+    width: 800px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.marce a{
+    position: relative;
+    top: 15px;
+    left: 310px;
+    text-decoration: none;
+    color: #560216;
+    font-size: 30px;
+}
+
+.vidra{
+    position: relative;
+    top: 280px;
+    left: 300px;
+    height: 60px;
+    width: 800px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.vidra a{
+    position: relative;
+    top: 15px;
+    left: 310px;
+    text-decoration: none;
+    color: #560216;
+    font-size: 30px;
+}
+
+.gess{
+    position: relative;
+    top: 310px;
+    left: 300px;
+    height: 60px;
+    width: 800px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.gess a{
+    position: relative;
+    top: 15px;
+    left: 310px;
+    text-decoration: none;
+    color: #560216;
+    font-size: 30px;
+}
+
+.jardi{
+    position: relative;
+    top: 340px;
+    left: 300px;
+    height: 60px;
+    width: 800px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.jardi a{
+    position: relative;
+    top: 15px;
+    left: 310px;
+    text-decoration: none;
+    color: #560216;
+    font-size: 30px;
+}
